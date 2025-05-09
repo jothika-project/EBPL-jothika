@@ -1,0 +1,11 @@
+User_ID,User_Query,Chatbot_Response,Response_Time_Seconds,Resolved
+101,How can I reset my password?,"To reset your password, click on 'Forgot Password' on the login page.",3.2,True
+102,What are your working hours?,"Our working hours are 9 AM to 6 PM, Monday to Friday.",2.5,True
+103,Can I return a product I bought last week?,"Yes, you can return a product within 30 days of purchase.",4.0,True
+104,Where is my order?,Please provide your order number to check the status.,3.8,False
+105,How do I update my shipping address?,Go to your account settings and update your shipping address.,2.9,True
+106,Is there a student discount available?,"Yes, we offer a 10% student discount with a valid student ID.",3.1,True
+107,How can I cancel my subscription?,"To cancel your subscription, go to the billing section in your account settings.",4.5,True
+108,What payment methods do you accept?,"We accept Visa, MasterCard, PayPal, and Apple Pay.",2.8,True
+109,My promo code isn't working.,Please check the promo code validity and ensure it meets the requirements.,3.6,False
+110,Can I speak to a human representative?,"Sure, connecting you to a human representative now.",4.2,True
